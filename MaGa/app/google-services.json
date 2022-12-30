@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21060410143",
+    "project_id": "maga-d45ee",
+    "storage_bucket": "maga-d45ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21060410143:android:20147aa5d3f3fde4462e2a",
+        "android_client_info": {
+          "package_name": "com.example.MaGa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21060410143-g14ciq4rojf3p0dds0mr2fm5ots0m3o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnCUWRN8lplgZ6fM87XK9-diSwYtKwYUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21060410143-g14ciq4rojf3p0dds0mr2fm5ots0m3o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
